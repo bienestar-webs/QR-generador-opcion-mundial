@@ -549,6 +549,7 @@ font-family: 'Courier New', cursive;
   }
 
   .logo {
+      
       width: 300px;
       height: 200px;
   }
@@ -654,8 +655,8 @@ font-family: 'Courier New', cursive;
   }
 
   .logo {
-    width: 150px;
-    height: 100px;
+    width: 180px;
+    height: 120px;
   }
 
   h1 {
@@ -746,8 +747,8 @@ font-family: 'Courier New', cursive;
   }
 
   .logo {
-    width: 120px;
-    height: 90px;
+    width: 150px;
+    height: 100px;
   }
 
   h1 {
